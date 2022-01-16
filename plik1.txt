@@ -1,1 +1,2 @@
 Wypełniam heh
+Teraz sprawdzam sobie jakie będzie zastosowanie "git fetch"
